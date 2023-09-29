@@ -37,4 +37,4 @@ Este texto está en **_Negrita y cursiva_**.
 ```
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole.")
 
-![Esto es una imagen de un planeta](http://joan23.fje.edu "Titulo opcional de la imagen.")
+![Esto es una imagen de un planeta](https://github.com/100006162/ASIX1M4UF1-CONFIRMACION/blob/main/planeta.jpg "Titulo opcional de la imagen.")
